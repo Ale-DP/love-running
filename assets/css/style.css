@@ -147,6 +147,12 @@ main {
     justify-content: center;
 }
 
+/* Meetup Times section */
+#times {
+    background: url("../images/dublin-city.webp") no-repeat center center/cover;
+    display: flex;
+    flex-wrap: wrap;
+}
 /* Footer */
 footer {
     #social-networks {
